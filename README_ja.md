@@ -4,7 +4,7 @@
 Sea Otter Keyboard（ラッコキーボード）は、Lo-Fi instrumentsがデザインした1キーのキーボードで、3Dプリントのラッコ型ケース、キースイッチ、アーティザンキーキャップが付属します。ユニークで機能的なデザインが好きな人にぴったりなコンパクトなキーボードです。  
 デフォルト設定はCtrl + S（保存ショートカットキー）です。ViaおよびRemapをサポートしています。
 
-[英語版ページはこちら(Click here for English Instructions)](https://github.com/lofi-instruments/seaotter/README.md)
+[英語版ページはこちら(Click here for English Instructions)](https://github.com/lofi-instruments/seaotter)
 
 ---
 
