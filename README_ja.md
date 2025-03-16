@@ -30,7 +30,7 @@ Sea Otter Keyboard（ラッコキーボード）は、Lo-Fi instrumentsがデザ
 ## お問い合わせ先
 
 - **E-Mail**: [lofi.instruments@gmail.com](mailto:lofi.instruments@gmail.com)
-- **X**: [@riv_mk](https://twitter.com/riv_mk)
+- **X**: [@riv_mk](https://x.com/riv_mk)
 
 ---
 
