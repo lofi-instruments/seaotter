@@ -8,7 +8,6 @@ The default setting is Ctrl + S (save shortcut key). It supports Via and Remap.
 
 ## Instructions
 
-### EN
 - #### Peel off the film from the surface of the acrylic base (on both sides)
   For the film on the logo, you can apply transparent tape or similar over it and repeatedly pull it off quickly to remove it successfully.
 
