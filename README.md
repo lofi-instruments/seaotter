@@ -31,7 +31,7 @@ For detailed instructions on how to change keymaps, please refer to the followin
 ## Contact Information
 
 - **E-Mail**: [lofi.instruments@gmail.com](mailto:lofi.instruments@gmail.com)
-- **X**: [@riv_mk](https://twitter.com/riv_mk)
+- **X**: [@riv_mk](https://x.com/riv_mk)
 
 ---
 
