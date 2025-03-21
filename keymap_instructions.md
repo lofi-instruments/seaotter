@@ -11,7 +11,9 @@
    - Please connect the USB to your computer without pressing any key switches.
 (If you press and hold a key while connecting, the keyboard will enter bootloader mode. Bootloader mode is used when rewriting the entire program, not for changing keymaps. In bootloader mode, the key will not respond, and the keyboard will return to normal mode after 6 seconds.)
 
-3. **Change Keymaps**
+3. **SETTINGS > Show Design Tab > DESIGN > Load Draft Definition > Load "[SeaOtter_via.json](https://github.com/lofi-instruments/seaotter/blob/main/codes/SeaOtter_via.json)" file**
+
+4. **Change Keymaps**
 
 ----
 
