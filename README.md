@@ -24,7 +24,7 @@ The default setting is **Ctrl + S** (save shortcut key). It supports **Via** and
 
 For detailed instructions on how to change keymaps, please refer to the following:
 
-[SeaOtter Keymap Instructions]([[https://github.com/lofi-instruments/seaotter])
+[SeaOtter Keymap Instructions]([https://github.com/lofi-instruments/seaotter])
 
 ---
 
