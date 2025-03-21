@@ -1,15 +1,17 @@
 # Viaを使ったキーマップ変更方法
-[英語版ページはこちら(Click here for English Instructions)](https://github.com/lofi-instruments/seaotter)
+[英語版ページはこちら(Click here for English Instructions)](https://github.com/lofi-instruments/seaotter/blob/main/keymap_instructions.md)
 
-1. **Viaのダウンロードとインストール**  
-   - [Via公式サイト](https://caniusevia.com/)にアクセスし、使用するOSに合ったソフトウェアをダウンロードします。  
-   - インストール後、Viaを開きます。
+# Viaを使ったキーマップ変更方法
+
+1. **Viaのダウンロードとインストール / ブラウザでViaを使用**  
+   - [Via公式サイト](https://caniusevia.com/)からソフトウェアをダウンロードしてインストールするか、[Via Web App](https://www.caniusevia.com/browser)でブラウザから直接Viaを使用できます。
 
 2. **キーボードの接続**  
    - Sea Otter Keyboardを接続し、正しく接続されていることを確認します。
 
 3. **Viaソフトウェアを開く**  
-   - Viaを起動すると、キーボードが自動的に検出されるはずです。検出されない場合は、「ブートローダーモード」に入っているか確認してください。
+   - ソフトウェア版を使用している場合、Viaを起動すると自動的にキーボードが検出されるはずです。  
+   - ブラウザ版を使用している場合、キーボードを接続するとViaが自動的に検出します。検出されない場合は、「ブートローダーモード」に入っているか確認してください。
 
 4. **キーマップを変更する**  
    - Viaで変更したいキーをクリックします。
@@ -21,7 +23,7 @@
 ---
 
 # Remapを使ったキーマップ変更方法
-[英語版ページはこちら(Click here for English Instructions)](https://github.com/lofi-instruments/seaotter)
+[英語版ページはこちら(Click here for English Instructions)](https://github.com/lofi-instruments/seaotter/blob/main/keymap_instructions.md)
 
 1. **Remapのダウンロードとインストール**  
    - [Remap GitHubページ](https://github.com/martinus/keyboard)からRemapをダウンロードします。
