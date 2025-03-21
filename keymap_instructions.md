@@ -1,15 +1,15 @@
 # How to Change Keymaps with Via
 [日本語版ページはこちら(Click here for Japanese Instructions)](https://github.com/lofi-instruments/seaotter/blob/main/keymap_instructions_ja.md)
 
-1. **Download and Install Via**  
-   - Go to the [Via official website](https://caniusevia.com/) and download the software for your operating system.  
-   - Install and open Via.
+1. **Download and Install Via / Use Via in Browser**  
+   - You can either download Via from the [Via official website](https://caniusevia.com/) and install the software on your system, or you can use Via directly in your browser by visiting the [Via Web App](https://www.caniusevia.com/browser).
 
 2. **Connect Your Keyboard**  
    - Plug in your Sea Otter Keyboard and ensure it's connected properly.
 
 3. **Open Via Software**  
-   - Launch Via and it should automatically detect your keyboard. If not, ensure your keyboard is in "bootloader" mode.
+   - If using the software version, launch Via and it should automatically detect your keyboard.  
+   - If using the browser version, Via should detect your keyboard once you connect it. Make sure the keyboard is in "bootloader" mode if it's not detected.
 
 4. **Modify Keymaps**  
    - In Via, click on the key you want to modify.
@@ -17,6 +17,7 @@
 
 5. **Save and Apply**  
    - Once your changes are made, click the "Write" button to save the new keymap to your keyboard.
+
 
 ----
 
