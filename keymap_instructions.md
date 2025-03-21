@@ -7,7 +7,7 @@
    - [Via official website](https://caniusevia.com/)
 
 2. **Connect Your Keyboard**  
-   - Plug in your Sea Otter Keyboard　to your PC and ensure it's connected properly.
+   - Plug in your Sea Otter Keyboard to your PC and ensure it's connected properly.
    - Please connect the USB to your computer without pressing any key switches.
 (If you press and hold a key while connecting, the keyboard will enter bootloader mode. Bootloader mode is used when rewriting the entire program, not for changing keymaps. In bootloader mode, the key will not respond, and the keyboard will return to normal mode after 6 seconds.)
 
