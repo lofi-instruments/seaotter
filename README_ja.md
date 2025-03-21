@@ -23,7 +23,7 @@ Sea Otter Keyboard（ラッコキーボード）は、Lo-Fi instrumentsがデザ
 デフォルト設定はCtrl + S（保存ショートカットキー）です。ViaおよびRemapをサポートしています。  
 キーマップ変更方法の詳細は下記ページをご確認ください。
 
-[SeaOtter GitHub Keymap Instructions](https://github.com/lofi-instruments/seaotter/blob/main/keymap_instructions_ja.md)
+[SeaOtter Keyboardキーマップ変更方法](https://github.com/lofi-instruments/seaotter/blob/main/keymap_instructions_ja.md)
 
 ---
 
