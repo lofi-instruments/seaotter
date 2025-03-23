@@ -13,7 +13,7 @@
 
 3. **「SETTINGS」タブ > Show Design Tab > 「DESIGN」タブ > Load Draft Definition > "[SeaOtter_via.json](https://github.com/lofi-instruments/seaotter/blob/main/codes/SeaOtter_via.json)"ファイルをアップロードする**  
 
-4. **キーマップを変更する**
+4. **キーマップを変更する**  
 「CONFIGURE」タブ > 画面上部に表示されている1キーの四角をクリック（画面上で、選択されたキーが薄く点滅した状態になります） > 画面下半分のキーコード一覧から、変更したいものを選びクリック > 画面上部に表示されている1キーに新しいキーが割り当てられているのを確認  
 
 5. **新しいキーマップに変更されたことを確認**  
