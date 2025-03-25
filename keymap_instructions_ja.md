@@ -4,7 +4,7 @@
 ## Via
 
 1. **Viaアプリのインストール、またはブラウザでViaを使用**  
-   - [https://caniusevia.com/](https://caniusevia.com/)
+   - [Via公式サイト](https://caniusevia.com/)
 
 2. **キーボードの接続**  
    - Sea Otter KeyboardをPCに接続してください。  
@@ -27,7 +27,7 @@
 ## Remap
 
 1. **Remapのサイトへアクセス**
-   - [https://remap-keys.app/](https://remap-keys.app/)
+   - [Remap公式サイト](https://remap-keys.app/)
 
 3. **キーボードの接続**  
    - Sea Otter KeyboardをPCに接続してください。  
