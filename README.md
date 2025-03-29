@@ -2,7 +2,8 @@
 ![SeaOtter-image](https://github.com/user-attachments/assets/cee67654-6314-4e95-b6d7-7baa934fe3be)
 
 The Sea Otter Keyboard is a one-key keyboard designed by Lo-Fi instruments, featuring a 3D printed otter-shaped case, key switches, and artisan keycaps. It's the perfect compact keyboard for those who love unique and functional designs.  
-The default setting is Ctrl + S (save shortcut key). It supports Via and Remap.
+The default setting is Ctrl + S (save shortcut key). It supports Via and Remap.  
+The default key switch is Jwick Semi-Silent. Since it uses hot-swappable sockets, the key switch can be changed.
 
 [日本語版ページはこちら(Click here for Japanese Instructions)](https://github.com/lofi-instruments/seaotter/blob/main/README_ja.md)
 
